@@ -31,6 +31,14 @@
             "notes": "",
             "created_at": "2025-09-28T11:58:29.867Z",
             "updated_at": "2025-11-07T16:29:56.555Z"
+        },
+        {
+            "device_code": "946CC12BD2E74874A6C1AF3E3F99B47D",
+            "device_name": "For Me",
+            "expiration_date": "2040-10-28",
+            "notes": "",
+            "created_at": "2025-09-28T11:58:29.867Z",
+            "updated_at": "2025-11-07T16:29:56.555Z"
         }
     ]
 }
