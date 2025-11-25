@@ -47,6 +47,14 @@
             "notes": "",
             "created_at": "2025-09-28T11:58:29.867Z",
             "updated_at": "2025-11-07T16:29:56.555Z"
+        },
+        {
+            "device_code": "E4CA12276C6B4BF4973AF6CB1376CA1C",
+            "device_name": "DVC IPA",
+            "expiration_date": "2040-10-28",
+            "notes": "",
+            "created_at": "2025-09-28T11:58:29.867Z",
+            "updated_at": "2025-11-07T16:29:56.555Z"
         }
     ]
 }
