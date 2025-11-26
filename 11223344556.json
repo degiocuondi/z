@@ -119,6 +119,14 @@
             "notes": "",
             "created_at": "2025-09-28T11:58:29.867Z",
             "updated_at": "2025-11-07T16:29:56.555Z"
+        },
+        {
+            "device_code": "A905A3260CE240EA9196C28DBC23559B",
+            "device_name": "TPT - Tài Báo 5",
+            "expiration_date": "2040-10-28",
+            "notes": "",
+            "created_at": "2025-09-28T11:58:29.867Z",
+            "updated_at": "2025-11-07T16:29:56.555Z"
         }
     ]
 }
