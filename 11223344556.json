@@ -175,6 +175,14 @@
             "notes": "",
             "created_at": "2025-09-28T11:58:29.867Z",
             "updated_at": "2025-11-07T16:29:56.555Z"
+        },
+        {
+            "device_code": "826C1750002B4DC1B4B7A14E33F9F51D",
+            "device_name": "TPT - Tài Báo 9",
+            "expiration_date": "2040-10-28",
+            "notes": "",
+            "created_at": "2025-09-28T11:58:29.867Z",
+            "updated_at": "2025-11-07T16:29:56.555Z"
         }
     ]
 }
