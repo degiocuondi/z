@@ -183,6 +183,14 @@
             "notes": "",
             "created_at": "2025-09-28T11:58:29.867Z",
             "updated_at": "2025-11-07T16:29:56.555Z"
+        },
+        {
+            "device_code": "1E4E93C555BE405B905CF660EE69984D",
+            "device_name": "SUI",
+            "expiration_date": "2040-10-28",
+            "notes": "",
+            "created_at": "2025-09-28T11:58:29.867Z",
+            "updated_at": "2025-11-07T16:29:56.555Z"
         }
     ]
 }
