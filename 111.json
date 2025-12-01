@@ -1,12 +1,20 @@
 {
-  "authorized_devices": [
-    {
-      "device_code": "826EF5F550EA4FE7ADE6EF776C0F913D",
-      "device_name": "PoweredbyG3R7",
-      "expiration_date": "2040-10-28",
-      "notes": "",
-      "created_at": "2025-09-28T11:58:29.867Z",
-      "updated_at": "2025-11-07T16:29:56.555Z"
-    }
-  ]
+    "authorized_devices": [
+        {
+            "device_code": "826EF5F550EA4FE7ADE6EF776C0F913D",
+            "device_name": "PoweredbyG3R7",
+            "expiration_date": "2040-10-28",
+            "notes": "",
+            "created_at": "2025-09-28T11:58:29.867Z",
+            "updated_at": "2025-11-07T16:29:56.555Z"
+        },
+        {
+            "device_code": "1234",
+            "device_name": "tên thiết bị",
+            "expiration_date": "2026-01-01",
+            "notes": "",
+            "created_at": "2025-12-01T13:49:30.090Z",
+            "updated_at": "2025-12-01T13:49:30.090Z"
+        }
+    ]
 }
