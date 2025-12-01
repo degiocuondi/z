@@ -295,6 +295,14 @@
             "notes": "",
             "created_at": "2025-12-01T14:01:46.038Z",
             "updated_at": "2025-12-01T14:01:46.038Z"
+        },
+        {
+            "device_code": "test123455q",
+            "device_name": "tên thiết bịaaa",
+            "expiration_date": "2026-02-01",
+            "notes": "",
+            "created_at": "2025-12-01T14:05:00.830Z",
+            "updated_at": "2025-12-01T14:05:00.830Z"
         }
     ]
 }
