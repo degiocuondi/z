@@ -227,7 +227,7 @@
         {
             "device_code": "68228C52E3A44807AF2E77AA4FA67234",
             "device_name": "Heo Mũm Mĩm",
-            "expiration_date": "2040-10-28",
+            "expiration_date": "2026-03-01",
             "notes": "",
             "created_at": "2025-09-28T11:58:29.867Z",
             "updated_at": "2025-11-07T16:29:56.555Z"
@@ -259,7 +259,7 @@
         {
             "device_code": "619D1C0D72AA4C2BAD3D6ADA8F1BC906",
             "device_name": "Đức Việt",
-            "expiration_date": "2040-10-28",
+            "expiration_date": "2026-03-01",
             "notes": "",
             "created_at": "2025-09-28T11:58:29.867Z",
             "updated_at": "2025-11-07T16:29:56.555Z"
@@ -267,15 +267,15 @@
         {
             "device_code": "C74978C35E8E4D1D9F6633BB4179893F",
             "device_name": "Huy Phạm",
-            "expiration_date": "2040-10-28",
+            "expiration_date": "2026-03-01",
             "notes": "",
             "created_at": "2025-09-28T11:58:29.867Z",
             "updated_at": "2025-11-07T16:29:56.555Z"
         },
         {
             "device_code": "332F3677AE584DCC8DA2EE096D133720",
-            "device_name": "Truơngf",
-            "expiration_date": "2040-10-28",
+            "device_name": "Trường",
+            "expiration_date": "2026-03-01",
             "notes": "",
             "created_at": "2025-09-28T11:58:29.867Z",
             "updated_at": "2025-11-07T16:29:56.555Z"
