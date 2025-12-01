@@ -2,11 +2,11 @@
     "authorized_devices": [
         {
             "device_code": "826EF5F550EA4FE7ADE6EF776C0F913D",
-            "device_name": "Admin Thinhkk",
-            "expiration_date": "2025-12-02T23:19:04.987+07:00",
+            "device_name": "Admin Thinhkk019",
+            "expiration_date": "2025-12-02",
             "notes": "boss!",
             "created_at": "2025-09-28T11:58:29.867Z",
-            "updated_at": "2025-12-01T23:19:04.987+07:00"
+            "updated_at": "2025-12-01T16:26:21.085Z"
         },
         {
             "device_code": "240110AE7E634A2EA9A09CE0CCD68A7F",
