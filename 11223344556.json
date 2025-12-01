@@ -282,11 +282,11 @@
         },
         {
             "device_code": "test123455q",
-            "device_name": "tên thiết bịaaa",
-            "expiration_date": "2026-02-01",
+            "device_name": "test time",
+            "expiration_date": "2025-12-01T17:07:45.096Z",
             "notes": "",
             "created_at": "2025-12-01T14:21:09.787Z",
-            "updated_at": "2025-12-01T14:21:09.787Z"
+            "updated_at": "2025-12-01T16:07:45.096Z"
         },
         {
             "device_code": "CF89E51223754FAD88EC6E06296ECE91",
