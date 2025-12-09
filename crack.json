@@ -103,6 +103,14 @@
             "notes": "",
             "created_at": "2025-12-09T05:58:53.530Z",
             "updated_at": "2025-12-09T05:58:53.530Z"
+        },
+        {
+            "device_code": "2BB05F5795114BC598DE75A3919A7114",
+            "device_name": "Minh Toàn",
+            "expiration_date": "2026-01-09",
+            "notes": "",
+            "created_at": "2025-12-09T09:12:05.178Z",
+            "updated_at": "2025-12-09T09:12:05.178Z"
         }
     ]
 }
