@@ -239,6 +239,14 @@
             "notes": "",
             "created_at": "2025-12-10T17:11:24.179Z",
             "updated_at": "2025-12-11T03:09:09.804Z"
+        },
+        {
+            "device_code": "663549EBC9F14E75B318259740375735",
+            "device_name": "Lê Nam",
+            "expiration_date": "2026-01-11",
+            "notes": "",
+            "created_at": "2025-12-11T03:29:04.229Z",
+            "updated_at": "2025-12-11T03:29:04.229Z"
         }
     ]
 }
