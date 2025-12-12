@@ -383,6 +383,14 @@
             "notes": "",
             "created_at": "2025-12-12T09:25:47.134Z",
             "updated_at": "2025-12-12T09:25:47.134Z"
+        },
+        {
+            "device_code": "0F1C63EFC21E4762BA515B2BAEF70600",
+            "device_name": "MeoMeo OppO",
+            "expiration_date": "2026-01-12",
+            "notes": "",
+            "created_at": "2025-12-12T10:12:45.171Z",
+            "updated_at": "2025-12-12T10:12:45.171Z"
         }
     ]
 }
