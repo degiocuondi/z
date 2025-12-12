@@ -375,6 +375,14 @@
             "notes": "",
             "created_at": "2025-12-12T09:25:27.273Z",
             "updated_at": "2025-12-12T09:25:27.273Z"
+        },
+        {
+            "device_code": "F1B630A306814046B59A23A88BE457BA",
+            "device_name": "test",
+            "expiration_date": "2025-12-14",
+            "notes": "",
+            "created_at": "2025-12-12T09:25:47.134Z",
+            "updated_at": "2025-12-12T09:25:47.134Z"
         }
     ]
 }
