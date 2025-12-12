@@ -479,6 +479,14 @@
             "notes": "",
             "created_at": "2025-12-12T16:49:16.319Z",
             "updated_at": "2025-12-12T16:49:16.319Z"
+        },
+        {
+            "device_code": "88957746280F4CAB804FC33987543652",
+            "device_name": "test",
+            "expiration_date": "2025-12-14",
+            "notes": "",
+            "created_at": "2025-12-12T18:39:28.883Z",
+            "updated_at": "2025-12-12T18:39:28.883Z"
         }
     ]
 }
