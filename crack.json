@@ -226,11 +226,11 @@
         },
         {
             "device_code": "9784CE636BF84EB2A2A42AE6510E4E1E",
-            "device_name": "Name Không Có",
-            "expiration_date": "2026-05-10",
+            "device_name": "close",
+            "expiration_date": "2025-12-18",
             "notes": "",
             "created_at": "2025-12-10T16:38:24.159Z",
-            "updated_at": "2025-12-10T16:38:24.159Z"
+            "updated_at": "2025-12-17T02:58:46.344Z"
         },
         {
             "device_code": "2DE4E4A27FBC402DB40888BAE0EB15ED",
