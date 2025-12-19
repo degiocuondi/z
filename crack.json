@@ -703,6 +703,14 @@
             "notes": "",
             "created_at": "2025-12-17T16:04:47.446Z",
             "updated_at": "2025-12-17T16:04:47.446Z"
+        },
+        {
+            "device_code": "D3E4F568317C4696BFA8B514B0622B2C",
+            "device_name": "Mã Lượng",
+            "expiration_date": "2026-01-19",
+            "notes": "",
+            "created_at": "2025-12-19T10:07:26.770Z",
+            "updated_at": "2025-12-19T10:07:26.770Z"
         }
     ]
 }
