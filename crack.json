@@ -775,6 +775,14 @@
             "notes": "",
             "created_at": "2025-12-20T01:38:05.418Z",
             "updated_at": "2025-12-20T01:38:09.120Z"
+        },
+        {
+            "device_code": "9612E4E52BD64CB3B0FA5111232D10BA",
+            "device_name": "Quỳnh",
+            "expiration_date": "2026-01-20",
+            "notes": "",
+            "created_at": "2025-12-20T11:19:25.540Z",
+            "updated_at": "2025-12-20T11:19:25.540Z"
         }
     ]
 }
