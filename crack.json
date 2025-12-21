@@ -799,6 +799,14 @@
             "notes": "",
             "created_at": "2025-12-20T18:04:40.746Z",
             "updated_at": "2025-12-20T18:04:40.746Z"
+        },
+        {
+            "device_code": "E71D8853E725464BB1A1CECAAF5E1B4F",
+            "device_name": "test",
+            "expiration_date": "2025-12-22",
+            "notes": "",
+            "created_at": "2025-12-21T10:40:01.272Z",
+            "updated_at": "2025-12-21T10:40:01.272Z"
         }
     ]
 }
