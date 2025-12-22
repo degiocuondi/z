@@ -855,6 +855,14 @@
             "notes": "",
             "created_at": "2025-12-22T06:21:39.731Z",
             "updated_at": "2025-12-22T06:21:39.731Z"
+        },
+        {
+            "device_code": "80D7F3E17F274B33B16441B8EF4C418D",
+            "device_name": "Thắng Hữu",
+            "expiration_date": "2026-01-22",
+            "notes": "",
+            "created_at": "2025-12-22T08:20:29.353Z",
+            "updated_at": "2025-12-22T08:20:29.353Z"
         }
     ]
 }
