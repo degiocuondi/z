@@ -863,6 +863,14 @@
             "notes": "",
             "created_at": "2025-12-22T08:20:29.353Z",
             "updated_at": "2025-12-22T08:20:29.353Z"
+        },
+        {
+            "device_code": "37A91563-5389-4E01-8DBB-FD3DA3AD43FD",
+            "device_name": "Nam Trương",
+            "expiration_date": "2026-01-22",
+            "notes": "",
+            "created_at": "2025-12-22T10:48:37.593Z",
+            "updated_at": "2025-12-22T10:48:37.593Z"
         }
     ]
 }
