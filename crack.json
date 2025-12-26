@@ -1055,6 +1055,14 @@
             "notes": "",
             "created_at": "2025-12-26T09:13:26.091Z",
             "updated_at": "2025-12-26T09:13:31.712Z"
-        }
+        },
+        {
+            "device_code": "BB61D450A62C4103B2E60B712D38A931",
+            "device_name": "Minh Hiếu",
+            "expiration_date": "2026-01-26",
+            "notes": "",
+            "created_at": "2025-12-25T12:27:03.822Z",
+            "updated_at": "2025-12-26T08:56:52.212Z"
+						}
     ]
 }
