@@ -1087,6 +1087,14 @@
             "notes": "",
             "created_at": "2025-12-27T04:35:23.174Z",
             "updated_at": "2025-12-27T04:35:23.174Z"
+        },
+        {
+            "device_code": "BAE907D992E74ACFA278610ED23F44BD",
+            "device_name": "Sang",
+            "expiration_date": "2026-01-18",
+            "notes": "",
+            "created_at": "2025-12-27T05:05:49.758Z",
+            "updated_at": "2025-12-27T05:05:49.758Z"
         }
     ]
 }
