@@ -1287,6 +1287,14 @@
             "notes": "",
             "created_at": "2026-01-01T09:21:58.173Z",
             "updated_at": "2026-01-01T09:21:58.173Z"
+        },
+        {
+            "device_code": "050B1809CCD34943AD6978FE4B1FACB0",
+            "device_name": "Duong Cong Hung",
+            "expiration_date": "2026-02-01",
+            "notes": "",
+            "created_at": "2026-01-01T12:05:57.427Z",
+            "updated_at": "2026-01-01T12:05:57.427Z"
         }
     ]
 }
