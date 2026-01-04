@@ -1351,6 +1351,14 @@
             "notes": "",
             "created_at": "2026-01-04T03:35:09.911Z",
             "updated_at": "2026-01-04T03:41:35.855Z"
+        },
+        {
+            "device_code": "8FC7BDBFB24949CEB9F1F452E80B4E5A",
+            "device_name": "Toán",
+            "expiration_date": "2026-02-04",
+            "notes": "",
+            "created_at": "2026-01-04T05:27:52.319Z",
+            "updated_at": "2026-01-04T05:27:52.319Z"
         }
     ]
 }
