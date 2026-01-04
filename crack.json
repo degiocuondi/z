@@ -1367,6 +1367,14 @@
             "notes": "",
             "created_at": "2026-01-04T08:58:18.599Z",
             "updated_at": "2026-01-04T08:58:18.599Z"
+        },
+        {
+            "device_code": "E958FDDFA32F4AF194389B06DB5B64C0",
+            "device_name": "test",
+            "expiration_date": "2026-01-07",
+            "notes": "",
+            "created_at": "2026-01-04T11:31:50.591Z",
+            "updated_at": "2026-01-04T11:31:50.591Z"
         }
     ]
 }
