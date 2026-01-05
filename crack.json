@@ -1423,6 +1423,14 @@
             "notes": "",
             "created_at": "2026-01-05T03:45:34.499Z",
             "updated_at": "2026-01-05T03:48:45.963Z"
+        },
+        {
+            "device_code": "FEF4220284BA41EB9FE7B86D9EF57CDC",
+            "device_name": "Test",
+            "expiration_date": "2026-01-08",
+            "notes": "",
+            "created_at": "2026-01-05T05:56:39.792Z",
+            "updated_at": "2026-01-05T05:56:39.792Z"
         }
     ]
 }
