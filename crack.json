@@ -1551,6 +1551,14 @@
             "notes": "",
             "created_at": "2026-01-06T11:08:21.971Z",
             "updated_at": "2026-01-06T11:08:21.971Z"
+        },
+        {
+            "device_code": "31D53ED80E7441C1B0ABE32D9D8379B2",
+            "device_name": "Tài Báo",
+            "expiration_date": "2026-04-06",
+            "notes": "",
+            "created_at": "2026-01-06T11:09:10.642Z",
+            "updated_at": "2026-01-06T11:09:10.642Z"
         }
     ]
 }
