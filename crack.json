@@ -1559,6 +1559,14 @@
             "notes": "",
             "created_at": "2026-01-06T11:09:10.642Z",
             "updated_at": "2026-01-06T11:09:10.642Z"
+        },
+        {
+            "device_code": "2A3ED7A5187E472E9B522E44A25AE558",
+            "device_name": "Nice",
+            "expiration_date": "2026-01-27",
+            "notes": "",
+            "created_at": "2026-01-06T11:47:53.513Z",
+            "updated_at": "2026-01-06T11:47:53.513Z"
         }
     ]
 }
