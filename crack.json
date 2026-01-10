@@ -1639,6 +1639,14 @@
             "notes": "",
             "created_at": "2026-01-09T14:34:54.121Z",
             "updated_at": "2026-01-09T14:34:54.121Z"
+        },
+        {
+            "device_code": "9AC5EA3B532F4310BA02673CEC5641C6",
+            "device_name": "DVC",
+            "expiration_date": "2026-02-16",
+            "notes": "",
+            "created_at": "2026-01-10T02:49:20.339Z",
+            "updated_at": "2026-01-10T02:49:20.339Z"
         }
     ]
 }
