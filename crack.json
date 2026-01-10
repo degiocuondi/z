@@ -1530,11 +1530,11 @@
         },
         {
             "device_code": "400F009F31034207B89D0876B3A631CE",
-            "device_name": "Quan Trung",
-            "expiration_date": "2026-02-06",
+            "device_name": "close",
+            "expiration_date": "2026-01-11",
             "notes": "",
             "created_at": "2026-01-06T09:38:10.067Z",
-            "updated_at": "2026-01-06T09:38:10.067Z"
+            "updated_at": "2026-01-10T11:33:05.766Z"
         },
         {
             "device_code": "D8B47AB302D545CDA6BAEC2653FD7FA7",
