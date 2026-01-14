@@ -1727,6 +1727,14 @@
             "notes": "",
             "created_at": "2026-01-14T03:08:09.590Z",
             "updated_at": "2026-01-14T03:08:09.590Z"
+        },
+        {
+            "device_code": "C23C7BB0ECEA4CDEB2DD64D9C6415F3E",
+            "device_name": "Tờ Pi",
+            "expiration_date": "2026-02-14",
+            "notes": "",
+            "created_at": "2026-01-14T03:25:03.194Z",
+            "updated_at": "2026-01-14T03:25:03.194Z"
         }
     ]
 }
