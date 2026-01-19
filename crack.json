@@ -1855,6 +1855,14 @@
             "notes": "",
             "created_at": "2026-01-19T11:13:02.132Z",
             "updated_at": "2026-01-19T11:13:02.132Z"
+        },
+        {
+            "device_code": "CD7B64D553774355877E213A94C586F2",
+            "device_name": "Nguyen Gia Huy",
+            "expiration_date": "2026-02-19",
+            "notes": "",
+            "created_at": "2026-01-19T14:26:48.253Z",
+            "updated_at": "2026-01-19T14:26:48.253Z"
         }
     ]
 }
