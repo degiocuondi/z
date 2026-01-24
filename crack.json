@@ -1938,11 +1938,11 @@
         },
         {
             "device_code": "8CD463B544E04D1B9A20FA37330FE3AF",
-            "device_name": "Tờ Pi",
-            "expiration_date": "2026-02-23",
+            "device_name": "close",
+            "expiration_date": "2026-01-25",
             "notes": "",
             "created_at": "2026-01-23T15:39:32.257Z",
-            "updated_at": "2026-01-23T15:39:32.257Z"
+            "updated_at": "2026-01-24T03:52:55.862Z"
         },
         {
             "device_code": "C4409D41D54C497C9252534CB27D3940",
