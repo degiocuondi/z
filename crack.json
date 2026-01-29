@@ -2039,6 +2039,14 @@
             "notes": "",
             "created_at": "2026-01-29T02:56:19.484Z",
             "updated_at": "2026-01-29T02:56:19.484Z"
+        },
+        {
+            "device_code": "C15FB5101AAD4A67929A3A29518041AF",
+            "device_name": "Nguyen Duy Khiem",
+            "expiration_date": "2026-02-09",
+            "notes": "",
+            "created_at": "2026-01-29T11:27:56.593Z",
+            "updated_at": "2026-01-29T11:27:56.593Z"
         }
     ]
 }
