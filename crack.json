@@ -1522,11 +1522,11 @@
         },
         {
             "device_code": "FA3E2C56AA3141FD9912F3629B6DF472",
-            "device_name": "Test",
-            "expiration_date": "2026-01-09",
+            "device_name": "Tờ Pi",
+            "expiration_date": "2026-05-14",
             "notes": "",
             "created_at": "2026-01-06T03:37:35.640Z",
-            "updated_at": "2026-01-06T03:37:35.640Z"
+            "updated_at": "2026-02-14T10:59:53.465Z"
         },
         {
             "device_code": "400F009F31034207B89D0876B3A631CE",
