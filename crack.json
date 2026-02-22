@@ -2303,6 +2303,14 @@
             "notes": "",
             "created_at": "2026-02-16T15:35:40.534Z",
             "updated_at": "2026-02-16T15:35:40.534Z"
+        },
+        {
+            "device_code": "7053C37CCF1E4E668663D7444EE2B891",
+            "device_name": "Nguyen Van Khoa",
+            "expiration_date": "2026-03-22",
+            "notes": "",
+            "created_at": "2026-02-22T15:46:27.617Z",
+            "updated_at": "2026-02-22T15:46:27.617Z"
         }
     ]
 }
