@@ -2378,11 +2378,11 @@
         },
         {
             "device_code": "6A487EAD37DC42CDAD325283FDB18970",
-            "device_name": "Tờ Pi",
-            "expiration_date": "2026-06-03",
+            "device_name": "close",
+            "expiration_date": "2026-04-14",
             "notes": "",
             "created_at": "2026-03-03T13:22:51.219Z",
-            "updated_at": "2026-03-03T13:22:51.219Z"
+            "updated_at": "2026-04-13T13:45:07.443Z"
         },
         {
             "device_code": "77CF9C24771E42E4BB15CBE31746884F",
