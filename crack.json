@@ -2887,6 +2887,14 @@
             "notes": "",
             "created_at": "2026-04-18T13:59:28.184Z",
             "updated_at": "2026-04-18T13:59:28.184Z"
+        },
+        {
+            "device_code": "9C625CEE2393492F8DA9BBC8983C0E60",
+            "device_name": "Ngoc Hai",
+            "expiration_date": "2026-05-18",
+            "notes": "",
+            "created_at": "2026-04-18T15:26:26.997Z",
+            "updated_at": "2026-04-18T15:26:26.997Z"
         }
     ]
 }
