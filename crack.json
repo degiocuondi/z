@@ -2895,6 +2895,14 @@
             "notes": "",
             "created_at": "2026-04-18T15:26:26.997Z",
             "updated_at": "2026-04-18T15:26:26.997Z"
+        },
+        {
+            "device_code": "1C9F0697A47A43D9A6D6F3C6ACC6707E",
+            "device_name": "Thuy Trang",
+            "expiration_date": "2026-05-18",
+            "notes": "",
+            "created_at": "2026-04-18T16:36:04.930Z",
+            "updated_at": "2026-04-18T16:36:04.930Z"
         }
     ]
 }
