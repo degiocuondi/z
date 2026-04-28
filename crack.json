@@ -2946,11 +2946,11 @@
         },
         {
             "device_code": "3C02994CD7A2445598A9B7CAA8E3B25B",
-            "device_name": "Tài Báo",
-            "expiration_date": "2026-07-02",
+            "device_name": "close",
+            "expiration_date": "2026-04-29",
             "notes": "",
             "created_at": "2026-04-25T14:54:47.912Z",
-            "updated_at": "2026-04-25T14:54:47.912Z"
+            "updated_at": "2026-04-28T04:17:30.492Z"
         },
         {
             "device_code": "743F6FBDE47C446791352B62EDA17B87",
