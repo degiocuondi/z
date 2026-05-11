@@ -3111,6 +3111,14 @@
             "notes": "",
             "created_at": "2026-05-11T13:52:49.067Z",
             "updated_at": "2026-05-11T13:52:49.067Z"
+        },
+        {
+            "device_code": "5453C25DAD5B43959412D8BF54346768",
+            "device_name": "Tờ Pin",
+            "expiration_date": "2026-06-11",
+            "notes": "",
+            "created_at": "2026-05-11T17:50:58.471Z",
+            "updated_at": "2026-05-11T17:50:58.471Z"
         }
     ]
 }
