@@ -3407,6 +3407,14 @@
             "notes": "",
             "created_at": "2026-06-19T17:24:15.945Z",
             "updated_at": "2026-06-19T17:24:15.945Z"
+        },
+        {
+            "device_code": "5C4701BB0E284F279778164768D5217A",
+            "device_name": "Nguyen Quoc Dat",
+            "expiration_date": "2026-10-02",
+            "notes": "",
+            "created_at": "2026-06-24T01:20:54.309Z",
+            "updated_at": "2026-06-24T01:20:54.309Z"
         }
     ]
 }
